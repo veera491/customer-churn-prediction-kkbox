@@ -72,11 +72,7 @@ Key EDA steps included:
 
 **Note:** Random Forest achieved the strongest overall performance with 0.97 accuracy and 0.97 AUC.
 
-## Screenshots / Figures
-- TODO: Framework diagram
-- TODO: Correlation heatmap
-- TODO: Model comparison ROC curve
-- TODO: Classification reports
+
 
 ## How to Run
 
@@ -140,9 +136,6 @@ This repository is a portfolio-cleaned version of the academic project materials
 - Evaluated Logistic Regression, Naive Bayes, KNN, and Random Forest using accuracy, precision, recall, F1-score, ROC, and AUC.
 - Documented findings and model comparison.
 
-## Resume Bullet Points
-- Built a customer churn prediction workflow for music streaming analytics by preprocessing KKBox customer, transaction, and activity data into a 970K+ row model-ready dataset and comparing Logistic Regression, Naive Bayes, KNN, and Random Forest classifiers.
-- Selected Random Forest as the strongest churn model with 0.97 accuracy and 0.97 AUC by evaluating supervised classification models using precision, recall, F1-score, ROC curves, and confusion matrices.
 
 ## Limitations
 - Dataset not included due to size/licensing.
