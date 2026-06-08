@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+__MACOSX/
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.jsonl
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Generated outputs
+outputs/
+generated/
+results/*.csv
+results/*.json
+
+# Keep documentation placeholders
+!data/README.md
+!results/README.md
